@@ -1,6 +1,6 @@
-FNP Sales Performance & Logistics Dashboard
+**FNP Sales Performance Dashboard**
 
-**Project Overview**
+**Overview**
 This project features an interactive Business Intelligence dashboard designed to analyze and visualize sales performance for FNP (Ferns N Petals). By processing over 1,000 orders, this tool provides a comprehensive view of revenue drivers, seasonal trends, and logistical efficiency.
 
 **Key Features**
